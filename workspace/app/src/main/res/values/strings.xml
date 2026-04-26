@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Engine Wrapper</string>
+    <string name="start_button">Start Engine</string>
+    <string name="stop_button">Stop Engine</string>
+    <string name="initial_message">Tap Start to begin the Go engine and display results here.</string>
+</resources>

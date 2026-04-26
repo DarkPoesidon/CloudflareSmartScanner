@@ -1,0 +1,38 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Go build outputs
+scanner.exe
+scanner
+*.test
+*.out
+
+# Scanner runtime outputs
+full_log_*.txt
+reachable_*.txt
+last_passed.txt
+
+# Python virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Android/Gradle outputs
+workspace/.gradle/
+workspace/build/
+workspace/**/build/
+workspace/local.properties
+workspace/.tools/
+
+# Archives and generated binaries
+*.zip
+*.bin
+*.aar
+*.jar
+
+# Keep source + input list
+!domains.txt
